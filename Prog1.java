@@ -2,6 +2,10 @@ public class Prog1{
 
   public static void main(String[] args){
   
-     System.out.println("Pateros Technological College");
+     System.out.println("Pateros ");
+     System.out.println("Technological");
+     System.out.println("College");
+     System.out.println("Course: BSCS");
+
 }
 }
